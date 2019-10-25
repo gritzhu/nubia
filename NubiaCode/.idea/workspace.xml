@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4456b94b-400c-4672-b7dd-2c33fbc3ddb2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/09-index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/09-index.css" afterDir="false" />
-    </list>
+    <list default="true" id="4456b94b-400c-4672-b7dd-2c33fbc3ddb2" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -41,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/09-index-内容区-精品配件.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            <state relative-caret-position="817">
+              <caret line="43" column="56" lean-forward="true" selection-start-line="43" selection-start-column="56" selection-end-line="43" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -50,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/09-index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="422" column="19" selection-start-line="422" selection-start-column="19" selection-end-line="422" selection-end-column="19" />
+            <state relative-caret-position="-820">
+              <caret line="403" lean-forward="true" selection-start-line="403" selection-end-line="403" />
             </state>
           </provider>
         </entry>
@@ -74,7 +72,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="14" />
     <option name="y" value="148" />
     <option name="width" value="1386" />
@@ -134,12 +132,12 @@
       <option name="presentableId" value="Default" />
       <updated>1571994142444</updated>
       <workItem from="1571994143570" duration="13000" />
-      <workItem from="1571994162300" duration="37000" />
+      <workItem from="1571994162300" duration="896000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50000" />
+    <option name="totallyTimeSpent" value="909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -173,15 +171,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/09-index-内容区-精品配件.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        <state relative-caret-position="817">
+          <caret line="43" column="56" lean-forward="true" selection-start-line="43" selection-start-column="56" selection-end-line="43" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/09-index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="422" column="19" selection-start-line="422" selection-start-column="19" selection-end-line="422" selection-end-column="19" />
+        <state relative-caret-position="-820">
+          <caret line="403" lean-forward="true" selection-start-line="403" selection-end-line="403" />
         </state>
       </provider>
     </entry>
