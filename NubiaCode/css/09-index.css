@@ -420,6 +420,7 @@
 .footer{
     height: 396px;
     /*background-color: #ffffff;*/
+    margin-top: 1px;
     overflow: hidden;
 }
 .footer .footer_in{
